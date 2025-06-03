@@ -12,7 +12,8 @@ server_scripts {
     'server/money.lua',
     'server/items.lua',
     'server/jobs.lua',
-    'server/shared.lua'
+    'server/shared.lua',
+    'server/version_checker.lua'
 }
 
 dependencies {
