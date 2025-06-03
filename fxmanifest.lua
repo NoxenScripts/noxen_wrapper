@@ -15,8 +15,3 @@ server_scripts {
     'server/shared.lua',
     'server/version_checker.lua'
 }
-
-dependencies {
-    'qb-core',
-    'es_extended'
-} 
